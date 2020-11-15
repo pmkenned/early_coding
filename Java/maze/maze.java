@@ -1,0 +1,212 @@
+import javax.swing.*;
+
+class Maze
+{
+	public static void main(String args[])
+	{
+		String str = JOptionPane.showInputDialog("Enter size of maze:");
+		int dim = Integer.parseInt(str);
+
+		boolean maze[][] = new boolean[dim][dim];
+
+		randomizeMaze(maze, dim);
+
+		printMaze(maze, dim);
+
+		int row = 0;
+		int col = 0;
+
+		Robot bot = new Robot();
+	}
+
+	public static void printMaze(boolean maze[][], int dim)
+	{
+		for(int row = 0; row < dim; row++)
+		{
+			for(int col = 0; col < dim; col++)
+			{
+				if(maze[row][col] == true)
+					System.out.print("X");
+				else
+					System.out.print(" ");
+			}
+			System.out.println();
+		}
+	}
+
+	public static void randomizeMaze(boolean maze[][], int dim)
+	{
+		for(int row = 1; row < dim; row++)
+		{
+			for(int col = 0; col < dim; col++)
+			{
+				int rand = (int)(Math.random()*3);
+				if(rand == 0)
+					maze[row][col] = true;
+				else
+					maze[row][col] = false;
+			}
+		}
+	}
+}
+
+class Robot
+{
+	Robot()
+	{
+		row = 0;
+		col = 0;
+	}
+
+	public boolean moveDown(int maze[][], int dim)
+	{
+		return true;
+	}
+
+	public boolean moveLeft(int maze[][], int dim)
+	{
+		return true;
+	}
+
+	public boolean moveRight(int maze[][], int dim)
+	{
+		return true;
+	}
+
+	public int getRow() { return row; }
+	public int getCol() { return col; }
+
+	private int row;
+	private int col;
+}
+
+class Stack
+{
+	Stack() {
+		list = new LinkedList();
+	}
+
+	public void push(String move) {
+		list.append(move);
+	}
+
+	public String pop()
+	{
+		String str = list.getNodeMove(list.length());
+		list.remove(list.length());
+		return str;
+	}
+
+	public String peek() {
+		return list.getNodeMove(list.length());
+	}
+
+	public int length() {
+		return list.length();
+	}
+
+	private LinkedList list;
+}
+
+class ListNode
+{
+	ListNode() { next = null; }
+
+	public ListNode getNext() { return next; }
+	public String getMove() { return move; }
+
+	public void setNext(ListNode node) { next = node; }
+	public void setMove(String str) { move = str; }
+
+	private String move;
+	private ListNode next;
+}
+
+class LinkedList
+{
+	LinkedList()
+	{
+		headNode = new ListNode();
+		numberOfNodes = 0;
+	}
+
+	public void insert(int index)
+	{
+		ListNode node = traverse(index);
+		ListNode newNode = new ListNode();
+		newNode.setNext(node.getNext());
+		node.setNext(newNode);
+		numberOfNodes++;
+	}
+
+	public void remove(int index)
+	{
+		if(index == 0)
+		{
+			System.out.println("error: cannot remove headNode");
+			System.exit(1);
+		}
+
+		ListNode node = traverse(index-1);
+		node.setNext(node.getNext().getNext());
+		numberOfNodes--;
+	}
+
+	public void append() {
+		insert(numberOfNodes);
+	}
+
+	public void append(String str) {
+		insert(numberOfNodes);
+		setNodeMove(numberOfNodes,str);
+	}
+
+	public String toString()
+	{
+		if(numberOfNodes == 0)
+			return "the list is empty";
+		String str = "";
+
+		ListNode node = headNode;
+
+		for(int i=0; i<numberOfNodes; i++)
+		{
+			node = node.getNext();
+			str += node.getMove();
+		}
+
+		return str;
+	}
+
+	public String getNodeMove(int index)
+	{
+		ListNode node = traverse(index);
+		return node.getMove();
+	}
+
+	public void setNodeMove(int index, String str)
+	{
+		ListNode node = traverse(index);
+		node.setMove(str);
+	}
+
+	public ListNode traverse(int offset)
+	{
+		if(offset > numberOfNodes)
+		{
+			System.out.println("error: cannot traverse to " + offset);
+			System.exit(1);
+		}
+
+		ListNode node = headNode;
+		for(int i=0; i<offset; i++)
+			node = node.getNext();
+
+		return node;
+	}
+
+	public int length() { return numberOfNodes; }
+
+	private ListNode headNode;
+	private int numberOfNodes;
+}

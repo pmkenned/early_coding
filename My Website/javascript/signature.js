@@ -1,0 +1,1 @@
+document.write("Author: Paul Kennedy<br>E-mail: <a href='mailto:paulkennedy124@hotmail.com'>paulkennedy124@hotmail.com</a><br>Last Updated: April 8, 2006<br>");

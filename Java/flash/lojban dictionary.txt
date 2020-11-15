@@ -1,0 +1,2107 @@
+﻿         sumti or         logical connective: sumti afterthought or
+.a
+         a                letteral for a
+.abu
+         hope             attitudinal: hope – despair
+.a’o
+         interest         attitudinal: interest – disinterest – repulsion
+.a’u
+         desire           attitudinal: intent – indecision – rejection/refusal
+.ai
+         desire           attitudinal: desire – indifference – reluctance
+.au
+         sumti and        logical connective: sumti afterthought and
+.e
+         e                letteral for e
+.ebu
+         competence       attitudinal: competence – incompetence/inability
+.e’e
+         obligation       attitudinal: obligation – freedom
+.ei
+         sumti but not    logical connective: sumti afterthought x but not y
+.enai
+         request          attitudinal: request – negative request
+.e’o
+         suggestion       attitudinal: suggestion – abandon suggest – warning
+.e’u
+         sentence or      logical connective: sentence afterthought or
+.i ja
+         sentence and     logical connective: sentence afterthought and
+.i je
+         sentence conn?   logical connective: sentence afterthought connective question
+.i je’i
+         sentence but not logical connective: sentence afterthought x but not y
+.i jenai
+         sentence iff     logical connective: sentence afterthought biconditional/iff/if-and-only-if
+.i jo
+         sentence xor     logical connective: sentence afterthought exclusive or
+.i jonai
+         sentence whether logical connective: sentence afterthought whether-or-not
+.i ju
+         sentence only if logical connective: sentence afterthought conditional/only if
+.i naja
+         sentence link    sentence link/continuation; continuing sentences on same topic
+.i
+         belief           attitudinal: belief – skepticism – disbelief
+.ia
+         i                letteral for i
+.ibu
+         approval         attitudinal: approval – non-approval – disapproval
+.i’e
+         agreement        attitudinal: agreement – disagreement
+.ie
+         fear             attitudinal: fear – security
+.ii
+         love             attitudinal: love – no love lost – hatred
+.iu
+         sumti iff        logical connective: sumti afterthought biconditional/iff/if-and-only-if
+.o
+         o                letteral for o
+.obu
+         complaint        attitudinal: complaint – pleasure
+.oi
+         sumti xor        logical connective: sumti afterthought exclusive or
+.onai
+         patience         attitudinal: patience – mere tolerance – anger
+.o’o
+         relaxation       attitudinal: relaxation – composure – stress
+.o’u
+         sumti whether    logical connective: sumti afterthought whether-or-not
+.u
+         discovery        attitudinal: discovery – confusion/searching
+.ua
+         u                letteral for u
+.ubu
+         wonder           attitudinal: wonder – commonplace
+.u’e
+         surprise         attitudinal: surprise – not really surprised – expectation
+.ue
+         amusement        attitudinal: amusement – weariness
+.u’i
+         happiness        attitudinal: happiness – unhappiness
+.ui
+         repentance       attitudinal: repentance – lack of regret – innocence
+.u’u
+         pity             attitudinal: pity – cruelty
+.uu
+         hesitation       ‘er’ (hesitation)
+.y
+                y                letteral for y
+.ybu
+                ’                letteral for ’
+.y’y
+                h                letteral for h
+.y’ybu
+                after            time tense relation/direction: will [selbri]; after [sumti]; default future tense
+ba
+                sad              x1 is sad/depressed/dejected/[unhappy/feels sorrow/grief] about x2 (abstraction)
+badri
+                emphasize next   forethought emphasis indicator; indicates next word is especially emphasized
+ba’e                             
+                compelled by     bapli modal, 1st place (forced by) forcedly; compelled by force
+bai
+                run              x1 runs on surface x2 using limbs x3 with gait x4
+bajra
+                bundle           x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3
+bakfu
+                bovine           x1 is a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x2
+bakni
+                Esperanto        x1 is the language Esperanto used by x2 to express/communicate x3 (si’o/du’u, not quote)
+bangrnesperanto
+                language         x1 is a/the language/dialect used by x2 to express/communicate x3 (si’o/du’u, not quote)
+bangu
+                great            x1 is great/grand in property x2 (ka) by standard x3
+banli
+                bank             x1 is a bank owned by/in banking system x2 for banking function(s) x3 (event)
+banxa
+                perfective       interval event contour: in the aftermath of ...; since ...; perfective
+ba’o
+                force            x1 [force] (ka) forces/compels event x2 to occur; x1 determines property x2 to manifest
+bapli
+                big              x1 is big/large in property/dimension(s) x2 as compared with standard/norm x3
+barda
+                bar              x1 is a tavern/bar/pub serving x2 to audience/patrons x3
+barja
+                out              x1 is on the outside of x2; x1 is exterior to x2
+bartu
+                bite             x1 bites/pinches x2 on/at specific locus x3 with x4
+batci
+                exaggeration     exaggeration – accuracy – understatement
+ba’u
+                in language      bangu modal, 1st place in language ...
+bau
+                link sumti       sumti link to attach sumti (default x2) to a selbri; used in descriptions
+be
+                foolish          x1 is foolish/silly in event/action/property [folly] (ka) x2; x1 is a boob
+bebna
+                request to send  vocative: request to send/speak
+be’e
+                link more sumti  separates multiple linked sumti within a selbri; used in descriptions
+bei
+                                 x1 transfers/sends/transmits x2 to receiver x3 from transfer
+benji
+                                 transmitter/origin x4 via means/medium x5 end linked sumti elidable terminator: end linked sumti in specified description
+be’o
+                north            x1 is to the north/northern side [right-hand-rule pole] of x2 according to frame of reference x3
+berti
+                carry            x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter]
+bevri
+       8                  digit/number: 8
+bi
+       unordered interval non-logical interval connective: unordered between ... and ...
+bi’i
+                          x1 is bound/obliged to/has the duty to do/be x2 in/by
+       obliged
+bilga
+                          standard/agreement x3; x1 must do x2
+                          x1 is ill/sick/diseased with symptoms x2 from disease x3
+       ill
+bilma
+       become             x1 becomes/changes/converts/transforms into x2 under
+binxo
+                          conditions x3
+       ordered interval   non-logical interval connective: ordered from ... to ...
+bi’o
+       beer               x1 is made of/contains/is a amount of beer/ale/brew brewed
+birje
+                          from x2
+       arm                x1 is a/the arm [body-part] of x2
+birka
+       certain            x1 is certain/sure/positive/convinced that x2 is true
+birti
+       white              x1 is white / very light-coloured
+blabi
+       short scope link   short scope joiner; joins various constructs with shortest scope
+bo
+                          and right grouping
+       end number or      elidable terminator: terminate numeral or letteral string
+boi
+       lerfu
+       bottle             x1 is a bottle/jar/urn/flask/closable container for x2, made of
+botpi
+                          material x3 with lid x4
+       ready              x1 is ready/prepared for x2 (event)
+bredi
+       predicate          x1 (text) is a predicate relationship with relation x2 among
+bridi
+                          arguments (sequence/set)
+       office             x1 is an office/bureau/work-place of worker x2 at location x3
+briju
+       brother            x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3;
+bruna
+                          [not necess. biological]
+       Buddhist           x1 pertains to the Buddhist culture/religion/ethos in aspect x2
+budjo
+                          x1 is embarrassed/disconcerted/flustered/ill-at-ease
+       embarassed
+burna
+                          about/under conditions x2 (abstraction)
+       coincident with    location tense relation/direction; coincident with/at the same
+bu’u
+                          place as; space equivalent of ca
+       b                  letteral for b
+by
+       during             time tense relation/direction: is [selbri]; during/simultaneous
+ca
+                          with [sumti]; present tense
+                          x1 is today (cabna ‘now’ + djedi ‘day’)
+       today
+cabdei
+                          x1 is x2 hours in duration (default is 1 hour) by standard x3
+       hour
+cacra
+                          x1 walks/strides/paces on surface x2 using limbs x3
+       walk
+cadzu
+       intense emotion    attitudinal: strong intensity attitude modifier
+cai
+       continuative       interval event contour: during ...; continuative)
+ca’o
+       turn               x1 turns/rotates/revolves around axis x2 in direction x3
+carna
+       rain               x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation
+carvi
+                          [not limited to ‘rain’]
+                          x1(s) (mass normally, but 1 individual/jo’u possible)
+       discuss
+casnu
+                          discuss(es)/talk(s) about topic/subject x2
+                          x1 [agent] shoves/pushes x2 at locus x3
+       shove
+catke
+                          x1 looks at/examines/views/inspects/regards/watches/gazes at
+       look
+catlu
+                          x2 [compare with zgani]
+                          x1 (agent) kills/slaughters/murders x2 by action/method x3
+       kill
+catra
+                                                                                            188
+                                                                              Appendix B. Vocabulary
+            in a set with      non-logical connective: set link, unordered; ‘and also’, but
+ce
+                               forming a set
+            in a sequence with non-logical connective: ordered sequence link; ‘and then’,
+ce’o
+                               forming a sequence
+            expert             x1 is an expert/pro/has prowess in/is skilled at x2
+certu
+                               (event/activity) by standard x3
+            lambda             pseudo-quantifier binding a variable within an abstraction that
+ce’u
+                               represents an open place
+            god                x1 is a/the god/deity of people(s)/religion x2 with dominion
+cevni
+                               over x3 [sphere]; x1 is divine
+            initiate           x1 [state/event/process] commences/initiates/starts/begins to
+cfari
+                               occur; (intransitive verb)
+            confusing          x1 (event/state) confuses/baffles x2 [observer] due to [confusing]
+cfipu
+                               property x3 (ka)
+            3                  digit/number: 3
+ci
+            food               x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition to x2
+cidja
+            curry              x1 is a quantity of curry
+cidjrkari
+            kebab              x1 is a kebab
+cidjrkebabi
+            hydrogen           x1 is a quantity of/contains/is made of hydrogen (H)
+cidro
+            infant             x1 is an infant/baby [helpless through youth/incomplete
+cifnu
+                               development] of species x2
+            learn              x1 learns x2 (du’u) about subject x3 from source x4 (obj./event)
+cilre
+                               by method x5 (event/process)
+            kiss               x1 (agent) kisses/busses x2 at locus x3
+cinba
+            emotion            x1 feels emotion x2 (ka) about x3
+cinmo
+            interesting        x1 (abstraction) interests/is interesting to x2; x2 is interested in x1
+cinri
+            sexual             x1 in activity/state x2 exhibits sexuality/gender/sexual
+cinse
+                               orientation x3 (ka) by standard x4
+            paint              x1 [material] is a paint of pigment/active substance x2, in a base
+cinta
+                               of x3
+                               x1 fancies x2 (cinse ‘sex’ + nelci ‘like’)
+            fancy
+cinynei
+                               x1 is a bird/avian/fowl of species x2
+            bird
+cipni
+                               x1 (process/event) is a test for/proof of property/state x2 in
+            test
+cipra
+                               subject x3 (individ./set/mass)
+            cheese             x1 is a quantity of/contains cheese/curd from source x2
+cirla
+            write              x1 inscribes/writes x2 on display/storage medium x3 with
+ciska
+                               writing implement x4; x1 is a scribe
+            smile              x1 smiles/grins (facial expression)
+cisma
+            smile at           x1 reacts/responds/answers by smiling to stimulus x2 under
+cismyfra
+                               conditions x3 [cisma (smile) + frati (react)]
+            eat                x1 eats/ingests/consumes (transitive verb) x2
+citka
+            season             x1 is a season/is seasonal [cyclical interval], defined by
+citsi
+                               interval/property x2, of year(s) x3
+            strange            x1 is strange/weird/deviant/bizarre/odd to x2 in property x3 (ka)
+cizra
+            coffee             x1 is made of/contains/is a quantity of coffee from
+ckafi
+                               source/bean/grain x2
+                                                                                                    189
+                                                                         Appendix B. Vocabulary
+       ridicule           x1 ridicules/mocks/scoffs at x2 about x3 (property/event) by
+ckasu
+                          doing activity x4 (event)
+       grateful           x1 is grateful/thankful to/appreciative of x2 for x3
+ckire
+                          (event/property)
+       school             x1 is school/institute/academy at x2 teaching subject(s) x3 to
+ckule
+                          audien./commun. x4 operated by x5
+                          x1 is long in dimension/direction x2 (default longest dimension)
+       long
+clani
+                          by measurement standard x3
+       loud               x1 is loud/noisy at observation point x2 by standard x3
+cladu
+       early              x1 (event) is early by standard x2
+clira
+       polite             x1 is polite/courteous/civil in matter x2 according to
+clite
+                          standard/custom x3
+       leave              x1 leaves x2 via route x3
+cliva
+       mathematics        x1 is a mathematics of type/describing x2
+cmaci
+       small              x1 is small in property/dimension(s) x2 (ka) as compared with
+cmalu
+                          standard/norm x3
+       structure word     x1 is a structure word of grammatical class x2, with
+cmavo
+                          meaning/function x3 in usage (language) x4
+       name               x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by
+cmene
+                          namer/name-user x3 (person)
+       laugh              x1 laughs
+cmila
+       member             x1 is a member/element of set x2; x1 belongs to group x2; x1 is
+cmima
+                          amid/among/amongst group x2
+       moan               x1 utters moan/groan/howl/scream [non-linguistic utterance] x2
+cmoni
+                          expressing x3 (property)
+       new                x1 is new/unfamiliar/novel to observer x2 in feature x3 (ka) by
+cnino
+                          standard x4; x1 is a novelty
+       beneath            x1 is directly/vertically beneath/below/under/underneath/down
+cnita
+                          from x2 in frame of reference x3
+       initiative         interval event contour: at the starting point of ...; initiative
+co’a
+       unspecified selbri elliptical/unspecified bridi relationship
+co’e
+       greetings          vocative: greetings/hello
+coi
+       partings           vocative: partings/good-bye
+co’o
+       cessative          interval event contour: at the ending point of ... even if not
+co’u
+                          done; cessative
+                          x1 requests/asks/petitions/solicits for x2 of/from x3 in
+       request
+cpedu
+                          manner/form x4
+       pungent            x1 is pungent/piquant/peppery/spicy/irritating to sense x2
+cpina
+       radio              x1 broadcasts/transmits [using radio waves] x2 via
+cradi
+                          station/frequency x3 to [radio] receiver x4
+       front              x1 is anterior/ahead/forward/(in/on) the front of x2 which
+crane
+                          faces/in-frame-of-reference x3
+       more expert        x1 is more expert/pro/has prowess than x2 in/is more skilled at
+cremau
+                          x3 by standard x4, by amount/excess x5 (certu ‘expert’ + zmadu
+                          ‘more’)
+       bear               x1 is a bear/ursoid of species/breed x2
+cribe
+                                                                                           190
+                                                                          Appendix B. Vocabulary
+          fairy            x1 is a fairy/elf/gnome/brownie/pixie/goblin/kobold [mythical
+crida
+                           humanoid] of mythos/religion x2
+          green            x1 is green
+crino
+          summer           x1 is summer/summertime [hot season] of year x2 at location x3
+crisa
+          autumn           x1 is autumn/fall [harvest/cooling season] of year x2 at location
+critu
+                           x3
+          lip              x1 is a/the lip [body-part]/rim of orifice x2 of body x3;
+ctebi
+                           (adjective:) x1 is labial
+                           x1 teaches audience x2 ideas/methods/lore x3 (du’u) about
+          teach
+ctuca
+                           subject(s) x4 by method x5 (event)
+          selbri separator elidable marker: separates selbri from preceding sumti, allows
+cu
+                           preceding terminator elision
+          neutral emotion  attitudinal: neutral scalar attitude modifier
+cu’i
+          book             x1 is a book about subject/theme/story x2 by author x3 for
+cukta
+                           audience x4 preserved in medium x5
+          full             x1 is full/completely filled with x2
+culno
+          produce          x1 produces x2 [product] by process x3
+cupra
+          let              x1 (agent) lets/permits/allows x2 (event) under conditions x3; x1
+curmi
+                           grants privilege x2
+          express          x1 expresses/says x2 for audience x3 via expressive medium x4
+cusku
+          as said by       cusku modal, 1st place (attribution/quotation) as said by source
+cu’u
+                           ...; used for quotation
+          c                letteral for c
+cy
+          something #1     logically quantified existential pro-sumti: there exists
+da
+                           something #1 (usually restricted)
+          conquer          x1 conquers/siezes x2 from x3 (‘war-take’)
+dable’a
+          supposing        discursive: supposing – in fact
+da’i
+          empathy          attitudinal modifier: marks empathetic use of preceding
+dai
+                           attitudinal; shows another’s feelings
+          answer           x1 is the answer/response/solution/[reply] to question/problem
+danfu
+                           x2
+          dance            x1 (individual, mass) dances to accompaniment/music/rhythm
+dansu
+                           x2
+          disco            x1 is a disco (dansu ‘dance’ + dinju ‘building’)
+dansydi’u
+          curse            x1 curses/damns/condemns x2 to fate (event) x3
+dapma
+          hell             x1 is the territory of damnation by x2 (dapma ‘curse’ + tutra
+daptutra
+                           ‘territory’)
+                           x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at
+          hit
+darxi
+                           locus x4
+                           x1 wears/is robed/garbed in x2 as a garment of type x3
+          wear
+dasni
+          10               digit/number: hex digit A
+dau
+          something #2     logically quantified existential pro-sumti: there exists
+de
+                           something #2 (usually restricted)
+          dated            detri modal, 1st place (for letters) dated ... ; attaches date stamp
+de’i
+                           x1 awaits/waits/pauses for/until x2 at state x3 before
+          wait
+denpa
+                           starting/continuing x4 (activity/process)
+                                                                                              191
+                                                                        Appendix B. Vocabulary
+       date             x1 is the date [day,{week},{month},year] of event/state x2, at
+detri
+                        location x3, by calendar x4
+       something #3     logically quantified existential pro-sumti: there exists
+di
+                        something #3 (usually restricted)
+                        x1 (event) interrupts/stops/halts/[disrupts] x2
+       interrupt
+dicra
+                        (object/event/process) due to quality x3
+       electric         x1 is electricity [electric charge or current] in/on x2 of
+dikca
+                        polarity/quantity x3 (def. negative)
+       cloud            x1 is a cloud/mass of clouds of material x2 in air mass x3 at
+dilnu
+                        floor/base elevation x4
+       economics        x1 is economics based on methodology x2 (jdini ‘money’ + saske
+dinske
+                        ‘science’)
+       dear             x1 is dear/precious/darling to x2; x1 is emotionally valued by x2
+dirba
+       water            x1 is made of/contains/is a quantity/expanse of water;
+djacu
+                        (adjective:) x1 is aqueous/[aquatic]
+       full day         x1 is x2 full days in duration (default is 1 day) by standard x3;
+djedi
+                        (adjective:) x1 is diurnal
+       want             x1 desires/wants/wishes x2 (event/state) for purpose x3
+djica
+       know             x1 knows fact(s) x2 (du’u) about subject x3 by epistemology x4
+djuno
+       you              pro-sumti: you listener(s); identified by vocative
+do
+       vocative marker  generic vocative marker; identifies intended listener; elidable
+doi
+                        after COI
+       German           x1 reflects German/Germanic culture/nationality/language in
+dotco
+                        aspect x2
+       drama            x1 is a drama/play about x2 [plot/theme/subject] by dramatist x3
+draci
+                        for audience x4 with actors x5
+       correct          x1 is correct/proper/right/perfect in property/aspect x2 (ka) in
+drani
+                        situation x3 by standard x4
+       other            x1 isn’t the-same-thing-as/is different-from/other-than x2 by
+drata
+                        standard x3; x1 is something else
+       same identity as identity selbri; = sign; x1 identically equals x2, x3, etc.; attached
+du
+                        sumti refer to same thing
+       too many         digit/number: too many
+du’e
+       excess           x1 is an excess of/too much of x2 by standard x3
+dukse
+       give             x1 [donor] gives/donates gift/present x2 to recipient/beneficiary
+dunda
+                        x3 [without payment/exchange]
+       anguish          x1 is anguished/distressed/emotionally wrought/stressed by x2
+dunku
+       equal            x1 is equal/congruent to/as much as x2 in
+dunli
+                        property/dimension/quantity x3
+       winter           x1 is winter/wintertime [cold season] of year x2 at location
+dunra
+       bridi abstract   abstractor: predication/bridi abstractor; x1 is predication [bridi]
+du’u
+                        expressed in sentence x2
+       d                letteral for d
+dy
+                        x1 is an elder/ancestor of x2 by bond/tie/degree x3; x1’s
+       elder
+dzena
+                        generation precedes x2’s parents
+       1st sumti place  sumti place tag: tag 1st sumti place
+fa
+       towards point    location tense relation/direction; arriving at/directly towards ...
+fa’a
+                                                                                             192
+                                                                        Appendix B. Vocabulary
+       discover          x1 discovers/finds out x2 (du’u) about subject/object x3; x1 finds
+facki
+                         (fi) x3 (object)
+       fire              x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3
+fagri
+                         (default air/oxygen)
+       extra sumti place sumti place tag: tag a sumti moved out of numbered place
+fai
+                         structure; used in modal conversions
+       drop              x1 allows x2 to fall/drop to x3 in gravity well/frame of reference
+falcru
+                         x4
+       alien             x1 is alien/foreign/[exotic]/unfamiliar to x2 in property x3 (ka)
+fange
+       translate         x1 translates x2 to language x3 from language x4 with
+fanva
+                         translation-result x5
+       annoy             x1 (event) annoys/irritates/bothers/distracts x2
+fanza
+       fall              x1 falls/drops to x2 from x3 in gravity well/frame of reference x4
+farlu
+       direction         x1 is the direction of x2 (object/event) from origin/in frame of
+farna
+                         reference x3
+       event             x1 (event) is an event that happens/occurs/takes place; x1 is an
+fasnu
+                         incident/happening/occurrence
+       fact              x1 (du’u) is a fact/reality/truth/actuality, in the absolute
+fatci
+       and respectively  non-logical connective: respectively; unmixed ordered
+fa’u
+                         distributed association
+       in the event of   fasnu modal, 1st place (non-causal) in the event of ...
+fau
+       2nd sumti place   sumti place tag: tag 2nd sumti place
+fe
+       11                digit/number: hex digit B
+fei
+       crazy             x1 is an insane, crazy person (fenki ‘crazy’ + prenu ‘person’)
+fekpre
+       angry             x1 is angry/mad at x2 for x3 (action/state/property)
+fengu
+       crazy             x1 (action/event) is crazy/insane/mad/frantic/in a frenzy (one
+fenki
+                         sense) by standard x2
+       over and out      vocative: over and out (end discussion)
+fe’o
+       3rd sumti place   sumti place tag: tag 3rd sumti place
+fi
+       created by        finti modal, 1st place (creator) created by ...
+fi’e
+       hospitality       vocative: hospitality – inhospitality; you are welcome/ make
+fi’i
+                         yourself at home
+       fish              x1 is a fish of species x2 [metaphorical extension to sharks, non-
+finpe
+                         fish aquatic vertebrates]
+       invent            x1 invents/creates/composes/authors x2 for function/purpose x3
+finti
+                         from existing elements/ideas x4
+       fraction slash    digit/number: fraction slash; default “/n” → 1/n, “n/” → n/1, or
+fi’u
+                         “/” alone → golden ratio
+       4th sumti place   sumti place tag: tag 4th sumti place
+fo
+       it #6             pro-sumti: he/she/it/they #6 (specified by goi)
+fo’a
+       it #7             pro-sumti: he/she/it/they #7 (specified by goi)
+fo’e
+       it #8             pro-sumti: he/she/it/they #8 (specified by goi)
+fo’i
+       telephone         x1 is a telephone transceiver/modem attached to
+fonxa
+                         system/network x2
+       it #9             pro-sumti: he/she/it/they #9 (specified by goi)
+fo’o
+       it #10            pro-sumti: he/she/it/they #10 (specified by goi)
+fo’u
+                         x1 reflects French/Gallic culture/nationality/language in aspect
+       French
+fraso
+                         x2
+                                                                                           193
+                                                                       Appendix B. Vocabulary
+        react             x1 reacts/responds/answers with action x2 to stimulus x3 under
+frati
+                          conditions x4; x1 is responsive
+        frown             x1 frowns/grimaces (facial expression)
+frumu
+        5th sumti place   sumti place tag: tag 5th sumti place
+fu
+        rotten            x1 rots/decays/ferments with decay/fermentation agent x2; x1 is
+fusra
+                          rotten/decayed/fermented
+        f                 letteral for f
+fy
+        fore or           logical connective: forethought all but tanru-internal or
+ga
+        cover             x1 is a cover/[lid/top] for covering/concealing/sheltering x2
+gacri
+        12                digit/number: hex digit C
+gai
+        cover             x1 [person/agent] places x2 as a cover/[lid/top] on x3 (gacri
+gairgau
+                          ‘cover’ + gasnu ‘do’)
+                          x1 (event) modifies/alters/changes/transforms/converts x2 into
+        modify
+galfi
+                          x3
+        fore only if      logical connective: forethought all but tanru-internal
+ganai
+                          conditional/only if
+        closed            x1 (portal/passage/entrance-way) is closed/shut/not open,
+ganlo
+                          preventing passage/access to x2 by x3
+        do                x1 [person/agent] is an agentive cause of event x2; x1
+gasnu
+                          does/brings about x2
+        fore and          logical connective: forethought all but tanru-internal and
+ge
+        fore conn?        logical connective: forethought all but tanru-internal
+ge’i
+                          connective question
+        dog               x1 is a dog/canine/[bitch] of species/breed x2
+gerku
+        grammar           x1 is the grammar/rules/defining form of language x2 for
+gerna
+                          structure/text x3
+        connective medial logical connective: all but tanru-internal forethought
+gi
+                          connective medial marker
+        bridi or          logical connective: bridi-tail afterthought or
+gi’a
+        bridi and         logical connective: bridi-tail afterthought and
+gi’e
+        bridi but not     logical connective: bridi-tail afterthought x but not y
+gi’enai
+        bridi conn?       logical connective: bridi-tail afterthought connective question
+gi’i
+        bridi iff         logical connective: bridi-tail afterthought biconditional/iff/if-
+gi’o
+                          and-only-if
+        bridi xor         logical connective: bridi-tail afterthought exclusive or
+gi’onai
+        root word         x1 is a (Lojban) root word expressing relation x2 among
+gismu
+                          argument roles x3, with affix(es)
+        bridi whether     logical connective: bridi-tail afterthought whether-or-not
+gi’u
+        hot               x1 is hot/[warm] by standard x2
+glare
+        happy             x1 is happy/gay/merry/glad/gleeful about x2 (event/state)
+gleki
+        copulate          x1 copulates/mates/has coitus/sexual intercourse with x2
+gletu
+        English           x1 is English/pertains to English-speaking culture in aspect x2
+glico
+        fore iff          logical connective: forethought all but tanru-internal
+go
+                          biconditional/iff/if-and-only-if
+        last bridi        pro-bridi: preceding bridi; in answer to a yes/no question,
+go’i
+                          repeats the claim, meaning yes
+        pro-sumti assign  sumti assignment; used to define/assign ko’a/fo’a series pro-
+goi
+                          sumti
+                                                                                            194
+                                                                         Appendix B. Vocabulary
+           fore xor         logical connective: forethought all but tanru-internal exclusive
+gonai
+                            or
+                            x1 is a rod/pole/staff/stick/cane [shape/form] of material x2
+           rod
+grana
+           fore whether     logical connective: forethought all but tanru-internal whether-
+gu
+                            or-not
+           fore or          logical connective: forethought all but tanru-internal or
+gu’a
+           fore only if     logical connective: forethought all but tanru-internal
+gu’anai
+                            conditional/only if
+                            x1 is public/un-hidden/open/jointly available to/owned by all
+           public
+gubni
+                            among community x2 (mass)
+           fore and         logical connective: forethought all but tanru-internal and
+gu’e
+           country          x1 is the country of peoples x2 with land/territory x3;
+gugde
+                            (people/territory relationship)
+           fore conn?       logical connective: forethought all but tanru-internal
+gu’i
+                            connective question
+           desk             x1 is a desk of worker x2 (gunka ‘work’ + jubme ‘table’)
+gunjubme
+           work             x1 [person] labors/works on/at x2 [activity] with goal/objective
+gunka
+                            x3
+           roll             x1 rolls/trundles on/against surface x2 rotating on axis/axle x3; x1
+gunro
+                            is a roller
+           attack           x1 (person/mass) attacks/invades/commits aggression upon
+gunta
+                            victim x2 with goal/objective x3
+           Communism        x1 is a notion of communism (gunka ‘work’ + turni ‘govern’ +
+guntrusi’o
+                            sidbo ‘idea’)
+           fore iff         logical connective: forethought all but tanru-internal
+gu’o
+                            biconditional/iff/if-and-only-if
+           fore xor         logical connective: forethought all but tanru-internal exclusive
+gu’onai
+                            or
+           illumine         x1 [energy] is light/illumination illuminating x2 from light
+gusni
+                            source x3
+           restaurant       x1 is a restaurant/cafe/diner serving type-of-food x2 to audience
+gusta
+                            x3
+           fore whether     logical connective: forethought all but tanru-internal whether-
+gu’u
+                            or-not
+           g                letteral for g
+gy
+           tanru or         logical connective: tanru-internal or
+ja
+           modal conversion convert tense/modal (tagged) place to 1st place; 1st place
+jai
+                            moves to extra FA place (fai)
+           result           x1 (action/event/state) is a result/outcome/conclusion of
+jalge
+                            antecedent x2 (event/state/process)
+           foot             x1 is a/the foot [body-part] of x2
+jamfu
+           war              x1 (person/mass) wars against x2 over territory/matter x3; x1 is at
+jamna
+                            war with x2
+                            x1 is a/the shoulder/hip/joint [body-part] attaching
+           shoulder
+janco
+                            limb/extremity x2 to body x3
+                            x1 is a suburban area of city/metropolis x2
+           suburb
+jarbu
+                            x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2
+           show
+jarco
+                            (property) to audience x3
+                                                                                             195
+                                                                          Appendix B. Vocabulary
+             captain       x1 is captain/commander/leader/in-charge/boss of
+jatna
+                           vehicle/domain x2
+             13            digit/number: hex digit D
+jau
+                           x1 is born to x2 at time x3 [birthday] and place x4 [birthplace]; x1
+             born
+jbena
+                           is native to (fo)
+             Logfest       x1 is an event of celebrating/recognizing/honoring Lojban with
+jbonunsalci
+                           activity/[party] x2
+             price         x1 [amount] is the price of x2 to purchaser/consumer x3 set by
+jdima
+                           vendor x4
+             money         x1 is money/currency issued by x2; (adjective:) x1 is
+jdini
+                           financial/monetary/pecuniary/fiscal
+             tanru and     logical connective: tanru-internal and
+je
+             polity        x1 is a polity/state governing territory/domain x2;
+jecta
+                           [government/territory relationship]
+             revolutionary x1 revolts against/deposes regime x2 (jecta ‘polity’ + galfi
+jecyga’ibai
+                           ‘modify’ + bapli ‘force’)
+             roger         vocative: roger (ack) – negative acknowledge; used to
+je’e
+                           acknowledge offers and thanks
+             tanru conn?   logical connective: tanru-internal connective question
+je’i
+             burn          x1 burns/[ignites/is flammable/inflammable] at temperature x2
+jelca
+                           in atmosphere x3
+             gem           x1 is a gem/polished stone/pearl of type x2 from
+jemna
+                           gemstone/material/source x3
+             tanru but not logical connective: tanru-internal x but not y
+jenai
+                           x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of
+             grasp
+jgari
+                           x1) at locus x4 (part of x2)
+             pride         x1 (person) feels/has pride in/about x2 (abstraction)
+jgira
+             guitar        x1 is a guitar/violin/fiddle/harp [stringed musical instrument]
+jgita
+                           with actuator/plectrum/bow x2
+             guitar        x1 is a guitar
+jgitrgitara
+             violin        x1 is a violin
+jgitrviolino
+             sumti conn?   logical connective: sumti afterthought connective question
+ji
+             in addition   discursive: additionally
+ji’a
+             socialize     x1 interacts/behaves socially with x2; x1 socializes with/is
+jikca
+                           sociable towards x2
+             understand    x1 understands/comprehends fact/truth x2 (du’u) about subject
+jimpe
+                           x3; x1 understands (fi) x3
+                           x1 thinks/opines x2 [opinion] (du’u) is true about subject/issue
+             opine
+jinvi
+                           x3 on grounds x4
+                           x1 is a chicken/[hen/cock/rooster]/small fowl [a type of bird] of
+             chicken
+jipci
+                           species/breed x2
+                           x1 is made of/contains/is a quantity of juice/nectar from-
+             juice
+jisra
+                           source/of-type x2
+                           x1 adds/combines x2 to/with x3, with result x4; x1 augments x2 by
+             add
+jmina
+                           amount x3
+             live          x1 lives/is alive by standard x2; x1 is an organism/living thing
+jmive
+                                                                                             196
+                                                                         Appendix B. Vocabulary
+      tanru iff         logical connective: tanru-internal biconditional/iff/if-and-only-
+jo
+                        if
+      in a mass with    non-logical connective: mixed conjunction; ‘and’ meaning
+joi
+                        ‘mixed together’, forming a mass
+      tanru xor         logical connective: tanru-internal exclusive or
+jonai
+      tanru whether     logical connective: tanru-internal whether-or-not
+ju
+      table             x1 is a table/flat solid upper surface of material x2, supported by
+jubme
+                        legs/base/pedestal x3
+      attention         vocative: attention – at ease – ignore me
+ju’i
+                        x1 cooks/prepares food-for-eating x2 by recipe/method x3
+      cook
+jukpa
+                        (process)
+      attentive         x1 is attentive towards/attends/tends/pays attention to
+jundi
+                        object/affair x2
+      Chinese           x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.]
+jungo
+                        culture/nationality/language in aspect x2
+      serious           x1 (person) is serious/earnest/has gravity about x2
+junri
+                        (event/state/activity)
+      certainty         attitudinal modifier: certainly – uncertain – certainly not
+ju’o
+      property abstract abstractor: property/quality abstractor (-ness); x1 is
+ka
+                        quality/property exhibited by [bridi]
+                        x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing
+      cup
+kabri
+                        contents x2, and of material x3
+      able              x1 is able to do/be/capable of doing/being x2 (event/state) under
+kakne
+                        conditions x3 (event/state)
+      cup               x1 is a/the eye [body-part] of x2; [metaphor: sensory apparatus];
+kanla
+                        (adjective:) x1 is ocular
+      with              x1 is with/accompanies/is a companion of x2, in
+kansa
+                        state/condition/enterprise x3 (event/state)
+      compare           x1 [observer] compares x2 with x3 in property x4 (ka),
+karbi
+                        determining comparison x5 (state)
+      car               x1 is a car/automobile/truck/van [a wheeled motor vehicle] for
+karce
+                        carrying x2, propelled by x3
+      journal           x1 is a journal/periodical/magazine/[newspaper] with content
+karni
+                        x2 published by x3 for audience x4
+      indirect question discursive: marks word serving as focus of indirect question
+kau
+      start grouping    start grouping of tanru, etc; ... type of ... ; overrides normal
+ke
+                        tanru left grouping
+      relativized it    pro-sumti: relativized sumti (object of relative clause)
+ke’a
+      end grouping      elidable terminator: end of tanru left grouping override
+ke’e
+                        (usually elidable)
+      end abstraction   elidable terminator: end abstraction bridi (often elidable)
+kei
+      outer space       x1 is outer space near/associated with celestial body/region x2
+kensa
+      please repeat     vocative: please repeat
+ke’o
+      hair              x1 is a/the hair/fur [body-part] of x2 at body location x3
+kerfa
+      textual confusion attitudinal question: confusion about something said
+ki’a
+      thanks            vocative: thanks – no thanks to you
+ki’e
+      oxygen            x1 is a quantity of/contains/is made of oxygen (O)
+kijno
+      number comma      digit/number: number comma; thousands
+ki’o
+                                                                                           197
+                                                                                Appendix B. Vocabulary
+              Pakistani           x1 reflects Pakistani/Pashto culture/nationality/language in
+kisto
+                                  aspect x2
+              because of reason   krinu modal, 1st place (justified by) justifiably; because of
+ki’u
+                                  reason ...
+                                  x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road] at
+              street
+klaji
+                                  x2 accessing x3
+              weep                x1 weeps/cries tears x2 about/for reason x3 (event/state)
+klaku
+              come                x1 goes/comes to x2 from x3 via x4 by means x5
+klama
+              imperative          pro-sumti: you (imperative); make it true for you, the listener
+ko
+              it #1               pro-sumti: he/she/it/they #1 (specified by goi)
+ko’a
+              it #2               pro-sumti: he/she/it/they #2 (specified by goi)
+ko’e
+              it #3               pro-sumti: he/she/it/they #3 (specified by goi)
+ko’i
+              it #4               pro-sumti: he/she/it/they #4 (specified by goi)
+ko’o
+              it #5               pro-sumti: he/she/it/they #5 (specified by goi)
+ko’u
+              origin              x1 (site/event) is a source/start/beginning/origin of x2
+krasi
+                                  (object/event/process)
+              senator             x1 is a senator representing x2 in senate x3
+kratrsenatore
+              reason              x1 (event/state) is a reason/justification/explanation
+krinu
+                                  for/causing/permitting x2 (event/state)
+              cry out             x1 cries out/yells/howls sound x2; x1 is a crier
+krixa
+              end sumti           elidable terminator: end description, modal, or negator sumti;
+ku
+                                  often elidable
+              curious             x1 is curious/wonders about/is interested in/[inquisitive about]
+kucli
+                                  x2 (object/abstract)
+              however             iscursive: however/but/in contrast
+ku’i
+              delicious           x1 is delicious/tasty/delightful to observer/sense x2 [person, or
+kukte
+                                  sensory activity]
+              room                x1 is a room of/in structure x2 surrounded by
+kumfa
+                                  partitions/walls/ceiling/floor x3 (mass/jo’u)
+              empty               x1 [container] is empty/vacant of x2 [material]; x1 is hollow
+kunti
+              end relative clause elidable terminator: end NOI relative clause; always elidable,
+ku’o
+                                  but preferred in complex clauses
+                                  x1 takes-care-of/looks after/attends to/provides for/is caretaker
+              take care of
+kurji
+                                  for x2 (object/event/person)
+              k                   letteral for k
+ky
+              q                   letteral for q
+kybu
+              that named          name descriptor: the one(s) called ... ; takes name or selbri
+la
+                                  description
+                                  discursive: probably – improbably
+              probability
+la’a
+                                  x1 pulls/tugs/draws/drags x2 by handle/at locus x3
+              pull
+lacpu
+              milk                x1 is made of/contains/is a quantity of milk from source x2;
+ladru
+                                  (adjective:) x1 is lactic/dairy
+              last utterance it   pro-sumti: the referent of the last utterance; the state described
+la’e di’u
+              the referent of     the referent of (indirect pointer); uses the referent of a sumti as
+la’e
+                                  the desired sumti
+              the set of named    name descriptor: the set of those named ... ; takes name or
+la’i
+                                  selbri description
+              the mass of named   name descriptor: the mass of individual(s) named ... ; takes
+lai
+                                  name or selbri description
+                                                                                                   198
+                                                                         Appendix B. Vocabulary
+      adjacent             x1 is adjacent/beside/next to/in contact with x2 in
+lamji
+                           property/sequence x3 in direction x4
+      analyze              x1 analyzes/examines-in-detail x2 by method/technique/system
+lanli
+                           x3 [process/activity]
+      sheep                x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3
+lanme
+      can                  x1 is a can/tightly sealed/pre-sealed container for perishable
+lante
+                           contents x2, made of x3
+      the non-Lojban       delimited non-Lojban name; the resulting quote sumti is
+la’o
+      named                treated as a name
+      the described        non-veridical descriptor: the one(s) described as ...
+le
+      take                 x1 takes/gets/gains/obtains/seizes/[removes] x2
+lebna
+                           (object/property) from x3 (possessor)
+      the stereotypical    non-veridical descriptor: the stereotype of those described as ...
+le’e
+      the set described    non-veridical descriptor: the set of those described as ...,
+le’i
+                           treated as a set
+      the mass described   non-veridical descriptor: the mass of individual(s) described as
+lei
+                           ...
+      late                 x1 (event) is late by standard x2
+lerci
+      end error quote      end quote of questionable or out-of-context text; not elidable
+le’u
+      the number           the number/evaluated expression; convert
+li
+                           number/operand/evaluated math expression to sumti
+                           x1 precedes/leads x2 in sequence x3; x1 is
+      precede
+lidne
+                           former/preceding/previous; x2 is latter/following
+      experience           x1 [person/passive/state] undergoes/experiences x2
+lifri
+                           (event/experience); x2 happens to x1
+      lightning            x1 is lightning/electrical arc/thunderbolt striking at/extending
+lindi
+                           to x2 from x3
+      that which really is veridical descriptor: the one(s) that really is(are) ...
+lo
+      the typical          veridical descriptor: the typical one(s) who really is(are) ...
+lo’e
+      logic                x1 [rules/methods] is a logic for
+logji
+                           deducing/concluding/inferring/reasoning to/about x2 (du’u)
+      the set which        veridical descriptor: the set of those that really are ..., treated as
+lo’i
+      really is            a set
+      the mass which       veridical descriptor: the mass of individual(s) that is(are) ...
+loi
+      really is
+      Lojbanic             x1 reflects [Loglandic]/Lojbanic
+lojbo
+                           language/culture/nationality/community in aspect x2
+      end mex sumti        elidable terminator: end math expression (mex) sumti; end
+lo’o
+                           mex-to-sumti conversion; usually elidable
+      error quote          start questionable/out-of-context quote; text should be Lojban
+lo’u
+                           words, but needn’t be grammatical
+      the individuals of   the members of the set/components of the mass; converts
+lu’a
+                           another description type to individuals
+      affix compound       x1 (text) is a compound predicate word with meaning x2 and
+lujvo
+                           arguments x3 built from metaphor x4
+                           x1 is Earth’s moon (default); x1 is a major natural satellite/moon
+      lunar
+lunra
+                           of planet x2
+                                                                                               199
+                                                                              Appendix B. Vocabulary
+             the mass          the mass composed of; converts another description type to a
+lu’o
+             composed of       mass composed of the members
+             l                 letteral for l
+ly
+             sumti?            pro-sumti: sumti question (what/who/how/why/etc.);
+ma
+                               appropriately fill in sumti blank
+             we with you       pro-sumti: me/we the speaker(s)/author(s) and you the
+ma’a
+                               listener(s) and others unspecified
+             derogative        x1 is a derogative connotation/sense of x2 used by x3; x3
+mabla
+                               derogates/‘curses at’ x2 in form x1
+                               x1 is English/pertains to English-speaking culture in aspect x2,
+             derogatorily
+malglico
+             English           and is derogatorily viewed by x3 (mabla ‘derogative’ + glico
+                               ‘English’)
+             derogatorily      x1 is a natural language, and is derogatorily viewed by x2
+malrarbau
+             natural language  (mabla ‘derogative’ + rarna ‘natural’ + bangu ‘languge’)
+             mother            x1 is a mother of x2; x1 bears/mothers/acts maternally toward x2;
+mamta
+                               [not necessarily biological]
+             wonder            x1 feels wonder/awe/marvels about x2
+manci
+             dark              x1 is dark/lacking in illumination
+manku
+             satisfy           x1 satisfies evaluator x2 in property (ka)/state x3
+mansa
+             month             x1 is x2 months in duration (default is 1 month) by month
+masti
+                               standard x3
+             flokati rug       x1 is a flokati rug
+matcrflokati
+             exceeded by       zmadu modal, 1st place (a greater) exceeded by ... ; usually a
+mau
+                               sumti modifier
+             sumti to selbri   convert sumti to selbri/tanru element; x1 is specific to [sumti] in
+me
+                               aspect x2
+             brow              x1 is a/the brow/forehead [projecting flat/smooth head/body-
+mebri
+                               part] of x2
+             beautiful         x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic
+melbi
+                               standard x4
+             mind              x1 is a mind/intellect/psyche/mentality/[consciousness] of body
+menli
+                               x2
+             sister            x1 is a sister of/sororal to x2 by bond/tie/standard/parent(s) x3;
+mensi
+                               [not necessarily biological]
+             American          x1 pertains to USA/American culture/nationality/dialect in
+merko
+                               aspect x2
+             me                pro-sumti: me/we the speaker(s)/author(s); identified by self-
+mi
+                               vocative
+             we, not you       pro-sumti: me/we the speaker(s)/author(s) and others
+mi’a
+                               unspecified, but not you, the listener
+             self-introduction self vocative: self-introduction – denial of identity; identifies
+mi’e
+                               speaker
+                               x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for
+             doctor
+mikce
+                               ailment x3 by treatment/cure x4
+             mild              x1 is mild/non-extreme/gentle/middling/somewhat in property
+milxe
+                               x2 (ka); x1 is not very x2
+             reflect           x1 reflects/mirrors/echoes x2 [object/radiation] to observer/point
+minra
+                               x3 as x4; x2 bounces on x1
+                                                                                                 200
+                                                                        Appendix B. Vocabulary
+        same              x1 is the same/identical thing as x2 by standard x3; (x1 and x2
+mintu
+                          interchangeable)
+        me and you        pro-sumti: me/we the speaker(s)/author(s) and you the
+mi’o
+                          listener(s)
+        famous            x1 (person/object/event) is famous/renowned/is a celebrity
+misno
+                          among community of persons x2 (mass)
+        cat               x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed
+mlatu
+                          x2; (adjective:) x1 is feline
+        bridi?            pro-bridi: bridi/selbri/brivla question
+mo
+        space motion      mark motions in space-time
+mo’i
+        ordinal selbri    convert number to ordinal selbri; x1 is (n)th member of set x2
+moi
+                          ordered by rule x3
+        remember          x1 remembers/recalls/recollects fact(s)/memory x2 (du’u) about
+morji
+                          subject x3
+        dead              x1 is dead/has ceased to be alive
+morsi
+        completive        interval event contour: at the natural ending point of ...;
+mo’u
+                          completive
+        mail              x1 mails/posts [transfer via intermediary service] x2 to x3 from
+mrilu
+                          x4 by carrier/network/system x5
+        die               x1 dies under conditions x2 (morsi ‘dead’ + binxo ‘become’)
+mrobi’o
+        5                 digit/number: 5
+mu
+        because of motive mukti modal, 1st place because of motive ...
+mu’i
+        motive            x1 (action/event/state) motivates/is a motive/incentive for
+mukti
+                          action/event x2, per volition of x3
+        complete          x1 (event) is complete/done/finished; x1 (object) has become
+mulno
+                          whole in property x2 by standard x3
+                          x1 is a universe/cosmos [complete and ordered entirety] of
+        universe
+munje
+                          domain/sphere x2 defined by rules x3
+        over              vocative: over (response OK) – more to come
+mu’o
+        example           x1 is an example/sample/specimen/instance/case/illustration of
+mupli
+                          common property(s) x2 of set x3
+        much              x1 is much/extreme in property x2 (ka), towards x3
+mutce
+                          extreme/direction; x1 is, in x2, very x3
+        exemplified by    mupli modal, 1st place exemplified by ...
+mu’u
+        m                 letteral for m
+my
+        sumti only if     logical connective: sumti afterthought conditional/only if
+na.a
+        bridi negator     bridi contradictory negator; scope is an entire bridi; logically
+na
+                          negates in some cmavo compounds
+        problem           x1 (event/state) is a problem to/encountered by x2 in
+nabmi
+                          situation/task/inquiry x3
+        scalar contrary   contrary scalar negator: other than ...; not ...; a scale or set is
+na’e
+                          implied
+        bridi only if     logical connective: bridi-tail afterthought conditional/only if
+nagi’a
+        negate last word  attached to cmavo to negate them; various negation-related
+nai
+                          meanings
+        tanru only if     logical connective: tanru-internal conditional/only if
+naja
+        number            x1 (li) is a number/quantifier/digit/value/figure (noun); refers to
+namcu
+                          the value and not the symbol
+                                                                                              201
+                                                                             Appendix B. Vocabulary
+        bread               x1 is a quantity of/contains bread [leavened or unleavened]
+nanba
+                            made from grains x2
+        year                x1 is x2 years in duration (default is 1 year) by standard x3;
+nanca
+                            (adjective:) x1 is annual
+        difficult           x1 is difficult/hard/challenging for x2 under conditions x3; x1
+nandu
+                            challenges (non-agentive) x2
+        man                 x1 is a man/men; x1 is a male humanoid person [not necessarily
+nanmu
+                            adult]
+        orange              x1 is orange [color adjective]
+narju
+        next to             location tense relation/direction; approximating/next to ...
+ne’a
+        within              location tense relation/direction; within/inside of/into ...
+ne’i
+        fond                x1 is fond of/likes/has a taste for x2 (object/state)
+nelci
+        in                  x1 is in/inside/within x2; x1 is on the inside/interior of x2 [totally
+nenri
+                            within the bounds of x2]
+        amount abstract     abstractor: quantity/amount abstractor; x1 is quantity/amount
+ni
+                            of [bridi] measured on scale x2
+        below               location tense relation/direction; downwards/down from ...
+ni’a
+        necessitate         x1 logically necessitates/entails/implies action/event/state x2
+nibli
+                            under rules/logic system x3
+                            x1 is a nighttime of day x2 at location x3; (adjective:) x1 is at
+        night
+nicte
+                            night/nocturnal
+        because of logic    nibli modal, 1st place logically; logically because ...
+ni’i
+        citrus              x1 is a quantity of citrus [fruit/tree, etc.] of species/strain x2
+nimre
+        woman               x1 is a woman (any female humanoid person, not necessarily
+ninmu
+                            adult)
+        meet                x1 meets x2 for the first time at location x3 (cnino ‘new’ + penmi
+ninpe’i
+                            ‘meet’)
+        new topic           discursive: paragraph break; introduce new topic
+ni’o
+                            x1 needs/requires/is dependent on/[wants] necessity x2 for
+        need
+nitcu
+                            purpose/action/stage of process x3
+        negative number     digit/number: minus sign; negative number); default any
+ni’u
+                            negative
+        0                   digit/number: 0
+no
+        noble               x1 is noble/aristocratic/elite/high-born/titled in/under
+nobli
+                            culture/society/standard x2
+        scalar midpoint     midpoint scalar negator: neutral point between je’a and to’e;
+no’e
+        not                 ‘not really’
+        incidental clause   non-restrictive relative clause; attaches subordinate bridi with
+noi
+                            incidental information
+        incidental identity non-restrictive appositive phrase marker: which incidentally is
+no’u
+                            the same thing as ...
+        event abstract      abstractor: generalized event abstractor; x1 is
+nu
+                            state/process/achievement/activity of [bridi]
+        promise             vocative: promise – promise release – un-promise
+nu’e
+        promise             x1 (agent) promises/commits/assures/threatens x2 (event/state)
+nupre
+                            to x3 [beneficiary/victim]
+        n                   letteral for n
+ny
+        1                   digit/number: 1
+pa
+                                                                                                 202
+                                                                             Appendix B. Vocabulary
+         part                 x1 is a part/component/piece/portion/segment of x2 [where x2 is
+pagbu
+                              a whole/mass]; x2 is partly x1
+         pi                   digit/number: pi (approximately 3.1416...)
+pai
+                              x1 is evil/depraved/wicked [morally bad] by standard x2
+         evil
+palci
+         potato               x1 is a potato [an edible tuber] of variety/cultivar x2
+patlu
+                              x1 is the first Buddhist (pa ‘1’ + budjo ‘Buddhist’)
+         first Buddhist
+pavbudjo
+         restrictive phrase   restrictive relative phrase marker: which is associated with ...;
+pe
+                              loosest associative/possessive
+         I opine              evidential: I opine (subjective claim)
+pe’i
+         emotion?             attitudinal: attitudinal question; how do you feel about it? with
+pei
+                              what intensity?
+         yellow               x1 is yellow/golden [color adjective]
+pelxu
+                              x1 (agent) touches x2 with x3 [a locus on x1 or an instrument] at
+         touch
+pencu
+                              x4 [a locus on x2]
+                              x1 is/acts as a friend of/to x2 (experiencer); x2 befriends x1
+         friend
+pendo
+         meet                 x1 meets/encounters x2 at/in location x3
+penmi
+         police               x1 thinks/considers/cogitates/reasons/is pensive about/reflects
+pensi
+                              upon subject/concept x2
+         paste                x1 is paste/pulp/dough/mash/mud/slurry [soft, smooth-
+pesxu
+                              textured, moist solid] of composition x2
+         please               vocative: please
+pe’u
+         most of              number: most of of; used to refer to a greater portion of
+pi so’e
+                              something
+         decimal point        digit/number: radix (number base) point; default decimal
+pi
+         digit separator      digit/number:separates digits for base >16, not current
+pi’e
+                              standard, or variable (e.g. time, date)
+         use                  x1 uses/employs x2 [tool, apparatus, machine, agent, acting
+pilno
+                              entity, material] for purpose x3
+         pencil               x1 is a pencil/crayon/stylus applying lead/marking material x2,
+pinsi
+                              frame/support [of material] x3
+         drink                x1 (agent) drinks/imbibes beverage/drink/liquid refreshment x2
+pinxe
+                              from/out-of container/source x3
+         used by              pilno modal, 1st place used by ...
+pi’o
+         piano                x1 is a piano/harpsichord/synthesizer/organ; a keyboard
+pipno
+                              musical instrument
+                              x1 is an apple [fruit] of species/strain x2
+         apple
+plise
+         complicated          x1 is complex/complicated/involved in aspect/property x2 (ka)
+pluja
+                              by standard x3
+         is specific to       restrictive relative phrase marker: which is specific to ...;
+po
+                              normal possessive physical/legal
+         which belongs to     restrictive relative phrase marker: which belongs to ... ;
+po’e
+                              inalienable possession
+         restrictive clause   restrictive relative clause; attaches subordinate bridi with
+poi
+                              identifying information to a sumti
+         possess              x1 possesses/owns/has x2 under law/custom x3; x1 is
+ponse
+                              owner/proprietor of x2 under x3
+         restrictive identity restrictive appositive phrase marker: which is the same thing
+po’u
+                              as
+                                                                                               203
+                                                                          Appendix B. Vocabulary
+          love             x1 loves/feels strong affectionate devotion towards x2
+prami
+                           (object/state)
+          person           x1 is a person/people (noun) [not necessarily human]; x1
+prenu
+                           displays personality/a persona
+                           x1 (quoted text) is a question/query about subject x2 by
+          question
+preti
+                           questioner x3 to audience x4
+          right            x1 is to the right of x2 facing x3
+pritu
+          before           time tense relation/direction: did [selbri]; before/prior to
+pu
+                           [sumti]; default past tense
+          police           x1 is a police officer/[enforcer/vigilante] enforcing
+pulji
+                           law(s)/rule(s)/order x2
+          anticipative     interval event contour: in anticipation of ...; until ... ; inchoative
+pu’o
+          past             x1 is in the past of/earlier than/before x2 in time sequence; x1 is
+purci
+                           former; x2 is latter
+          last night       x1 is the night preceding x2 (purci ‘past’ + lamji ‘adjacent’ + nicte
+purlamcte
+                           ‘night’)
+          p                letteral for p
+py
+          recent sumti     pro-sumti: a recent sumti before the last one, as determined by
+ra
+                           back-counting rules
+          rabbit           x1 is a rabbit/hare/[doe] of species/breed x2
+ractu
+          affix            x1 is an affix/suffix/prefix/combining-form for word/concept x2,
+rafsi
+                           form/properties x3, language x4
+          natural          x1 is natural/spontaneous/instinctive, not [consciously] caused
+rarna
+                           by person(s)
+                           x1 fries x2 (grasu ‘grease’ + jukpa ‘cook’)
+          fry
+rasyjukpa
+          2                digit/number: 2
+re
+          meat             x1 is a quantity of/contains meat/flesh from source/animal x2
+rectu
+          ready to receive vocative: ready to receive – not ready to receive
+re’i
+          14               digit/number: hex digit E
+rei
+          human            x1 is a human/human being/man (non-specific gender-free
+remna
+                           sense); (adjective:) x1 is human
+          last sumti       pro-sumti: the last sumti, as determined by back-counting
+ri
+                           rules
+          because of cause rinka modal, 1st place (phys./mental) causal because ...
+ri’a
+          cause            x1 (event/state) effects/physically causes effect x2 (event/state)
+rinka
+                           under conditions x3
+          greet            x1 (agent) greets/hails/[welcomes/says hello to]/responds to
+rinsa
+                           arrival of x2 in manner x3 (action)
+          parent           x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward
+rirni
+                           child/protege x2
+          on the right of  location tense relation/direction; rightwards/to the right of ...
+ri’u
+                           digit/number: each, all
+          each
+ro
+                           x1 is a quantity of/is made of/contains rock/stone of
+          rock
+rokci
+                           type/composition x2 from location x3
+          earlier sumti    pro-sumti: a remote past sumti, before all other in-use
+ru
+                           backcounting sumti
+          weak emotion     attitudinal: weak intensity attitude modifier
+ru’e
+                                                                                               204
+                                                                           Appendix B. Vocabulary
+          rough              x1 is rough/coarse/uneven/[grainy/scabrous/rugged] in
+rufsu
+                             texture/regularity
+          dollar             x1 is measured in major-money-units (dollar/yuan/ruble) as x2
+rupnu
+                             (quantity), monetary system x3
+          r                  letteral for r
+ry
+          erase utterance    erase complete or partial utterance; next word shows how
+sa
+                             much erasing to do
+          provide            x1 (source) provides/supplies/furnishes x2 [supply/commodity]
+sabji
+                             to x3 [recipient]
+          precisely speaking discursive: precisely speaking – loosely speaking
+sa’e
+          strong emotion     attitudinal: moderate intensity attitude modifier
+sai
+          sugar              x1 is made of/contains/is a quantity of sugar [sweet edible]
+sakta
+                             from source x2 of composition x3
+                             x1 celebrates/recognizes/honors x2 (event/abstract) with
+          celebrate
+salci
+                             activity/[party] x3
+          sing               x1 sings/chants x2 [song/hymn/melody/melodic sounds] to
+sanga
+                             audience x3
+          stand              x1 stands [is vertically oriented] on surface x2 supported by
+sanli
+                             limbs/support/pedestal x3
+          meal               x1 (mass) is a meal composed of dishes including x2
+sanmi
+          science            x1 (mass of facts) is science of/about subject matter x2 based on
+saske
+                             methodology x3
+          operate            x1 operates/drives/runs x2 [apparatus/machine] with
+sazri
+                             goal/objective/use/end/function x3
+          instead of         basti modal, 2nd place instead of ...
+se ba’i
+          without            claxu modal, 2nd place (lacking) without ...
+se cau
+          sentence abstract  compound abstractor: sentence/equation abstract; x1 is text
+se du’u
+                             expressing [bridi] which is x2
+          results because    jalge modal, 2nd place (event causal) results because of ...
+se ja’e
+          as a part of       pagbu modal, 2nd place (whole) partially; as a part of ...
+se pa’u
+          assisting          sidju modal, 2nd place assisting ... (in doing/maintaining
+se si’u
+                             something)
+          2nd conversion     2nd conversion; switch 1st/2nd places
+se
+          self-oriented      attitudinal modifier: self-oriented – other-oriented
+se’i
+                             x2 (text) is a predicate relationship with relation x1 among
+          predicate relation
+selbri
+                             arguments (sequence/set) (= se bridi)
+          manifesto          x1 is a manifesto about topic x2 by author x3 for audience x4
+selpeicku
+                             preserved in medium x5 (pensi ‘thought’ + cukta ‘book’)
+          apart              x1 is apart/separate from x2, separated by
+sepli
+                             partition/wall/gap/interval/separating medium x3
+          erase word         erase the last Lojban word, treating non-Lojban text as a single
+si
+                             word
+                             x1 [person] labors/works on/at x2 [activity] with goal/objective
+          idea
+sidbo
+                             x3
+                             x1 helps/assists/aids object/person x2 do/achieve/maintain
+          help
+sidju
+                             event/activity x3
+                             x1 seems/appears to have property(ies) x2 to observer x3 under
+          seem
+simlu
+                             conditions x4
+                                                                                             205
+                                                                          Appendix B. Vocabulary
+        similar          x1 is similar/parallel to x2 in property/quantity x3 (ka/ni); x1
+simsa
+                         looks/appears like x2
+        mutual           x1 (set) has members who mutually/reciprocally x2 (event [x1
+simxu
+                         should be reflexive in 1+ sumti])
+        concept          abstractor: idea/concept abstractor; x1 is x2’s concept of [bridi]
+si’o
+                         x1 seeks/searches/looks for property x2 among set x3 (complete
+        seek
+sisku
+                         specification of set)
+        cease            x1 ceases/stops/halts activity/process/state x2 [not necessarily
+sisti
+                         completing it]
+        pelt             x1 is a pelt/skin/hide/leather from x2
+skapi
+        describe         x1 tells about/describes x2 (object/event/state) to audience x3
+skicu
+                         with description x4 (property)
+        cord             x1 is cord/cable/rope/line/twine/cordage/woven strands of
+skori
+                         material x2
+        familiar         x1 is old/familiar/well-known to observer x2 in feature x3 (ka) by
+slabu
+                         standard x4
+        onion            x1 is a quantity of/contains onions/scallions of type/cultivar x2
+sluni
+        quieten          x1 acts so that x2 is quiet/silent/[still] at observation point x3 by
+smagau
+                         standard x4 (smaji ‘quiet’ + gasnu ‘do’)
+        quiet            x1 (source) is quiet/silent/[still] at observation point x2 by
+smaji
+                         standard x3
+        south            x1 is to the south/southern side of x2 according to frame of
+snanu
+                         reference x3
+                         x1 (event/state) is an accident/unintentional on the part of x2; x1
+        accidental
+snuti
+                         is an accident
+        9                digit/number: 9
+so
+        almost all       digit/number: almost all (digit/number)
+so’a
+        soda             x1 is made of/contains/is a quantity of a carbonated
+sodva
+                         beverage/soda of flavor/brand x2
+        most             digit/number: most
+so’e
+        many             digit/number: many
+so’i
+        reciprocal sumti discursive: reciprocal sumti marker; indicates a reciprocal
+soi
+                         relationship between sumti
+        soldier          x1 is a soldier/warrior/fighter of army x2
+sonci
+        several          digit/number: several
+so’o
+        few              digit/number: few
+so’u
+        surprise         x1 (event/action abstract) surprises/startles/is unexpected [and
+spaji
+                         generally sudden] to x2
+        plant            x1 is a plant/herb/greenery of species/strain/cultivar x2
+spati
+                         x1 marries x2; x1 becomes a spouse of x2 under
+        marry
+spebi’o
+                         law/custom/tradition/system/convention x3 (speni ‘spouse’ +
+                         binxo ‘become’)
+        married          x1 is married to x2; x1 is a spouse of x2 under
+speni
+                         law/custom/tradition/system/convention x3
+        hospital         x1 is a hospital treating patient(s) x2 for
+spita
+                         condition/injuries/disease/illness x3
+                                                                                             206
+                                                                           Appendix B. Vocabulary
+         explode           x1 bursts/explodes/violently breaks up/decomposes/combusts
+spoja
+                           into pieces/energy/fragments x2
+         reply             x1 answers/replies to/responds to
+spuda
+                           person/object/event/situation/stimulus x2 with response x3
+         reply             x1 assumes/supposes that x2 (du’u) is true about subject x3
+sruma
+         remain            x1 remains/stays at/abides/lasts with x2
+stali
+         head              x1 is a/the head [body-part] of x2
+stedu
+         lock              x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism
+stela
+                           x3
+         at most           digit/number: at most (all); no more than
+su’e
+         plus              n-ary mathematical operator: plus; addition operator; [(((a + b)
+su’i
+                           + c) + ...)]
+         argument          x1 is a/the argument of predicate/function x2 filling place x3
+sumti
+                           (kind/number)
+         at least          at least some); no less than
+su’o
+                           x1 is fast/swift/quick/hastes/rapid at doing/being/bringing
+         fast
+sutra
+                           about x2 (event/state)
+                           abstractor: generalized abstractor (how); x1 is [bridi] as a non-
+         unspecified
+su’u
+         abstract          specific abstraction of type x2
+         s                 letteral for s
+sy
+         that there        pro-sumti: that there; nearby demonstrative it; indicated
+ta
+                           thing/place near listener
+         interruption      vocative: interruption
+ta’a
+         study             x1 studies/is a student of x2; x1 is a scholar; (adjective:) x1 is
+tadni
+                           scholarly
+                           x1 is cousin to x2 by bond/tie x3; [non-immediate family
+         cousin
+tamne
+                           member, default same generation]
+         by the way        discursive: by the way – returning to the subject
+ta’o
+         star              x1 is a star/sun with stellar properties x2
+tarci
+         star label        x1 is a star-shaped label/tag of x2 showing information x3 (tarci
+tartcita
+                           ‘star’ + tcita ‘label’)
+         behave            x1 behaves/conducts oneself as/in-manner x2 (event/property)
+tarti
+                           under conditions x3
+         talk              x1 talks/speaks to x2 about subject x3 in language x4
+tavla
+         city              x1 is a town/city of metropolitan area x2, in political unit x3,
+tcadu
+                           serving hinterland/region x4
+                           x1 tries hard to do/attain x2 (event/state/property) by
+         try hard
+tcetoi
+                           actions/method x3 (mutce ‘much’ + troci ‘try’)
+                           x1 (event/experience)
+         deceive
+tcica
+                           misleads/deceives/dupes/fools/cheats/tricks x2 into x3
+                           (event/state)
+         talk              x1 [agent] reads x2 [text] from surface/document/reading
+tcidu
+                           material x3; x1 is a reader
+         time of day       x1 [hours, {minutes}, {seconds}] is the time/hour of state/event
+tcika
+                           x2 on day x3 at location x4
+         label             x1 is a label/tag of x2 showing information x3
+tcita
+         as a name used by cmene modal, 3rd place as a name used by ...
+te me’e
+                                                                                              207
+                                                                        Appendix B. Vocabulary
+       3rd conversion    3rd conversion; switch 1st/2nd places
+te
+       lock              x1 (agent) makes x2 be a lock/seal of/on/for sealing x3 with/by
+telgau
+                         locking mechanism x4 (stela ‘lock’ + gasnu ‘do’)
+       earth             x1 is the Earth/the home planet of race x2; (adjective:) x1 is
+terdi
+                         terrestrial/earthbound
+       this here         pro-sumti: this here; immediate demonstrative it; indicated
+ti
+                         thing/place near speaker
+       behind            location tense relation/direction; rearwards/to the rear of ...
+ti’a
+       perform           x1 performs x2 [performance] for/before audience x3
+tigni
+       obey              x1 obeys/follows the command/rule x2 made by x3; (adjective:)
+tinbe
+                         x1 is obedient
+       hear              x1 hears x2 against background/noise x3; x2 is audible;
+tirna
+                         (adjective:) x1 is aural
+       iron              x1 is a quantity of/contains/is made of iron (Fe)
+tirse
+       associated with   tcika modal, 1st place (for letters) associated with time ... ;
+ti’u
+       time              attach time stamp
+       television        x1 [broadcaster] televises programming x2 via media/channel x3
+tivni
+                         to television receiver x4
+       start parenthesis left parenthesis; start of parenthetical note which must be
+to
+                         grammatical Lojban text
+       polar opposite    polar opposite scalar negator
+to’e
+       end parenthesis   elidable terminator: right parenthesis/end unquote; seldom
+toi
+                         elidable except at end of text
+       away from point   location tense relation/direction; departing from/directly away
+to’o
+                         from ...
+       superlative       x1 is superlative in property x2 (ka), the x3 extreme (ka; default
+traji
+                         ka zmadu) among set/range x4
+       train             x1 is a train [vehicle] of cars/units x2 (mass) for
+trene
+                         rails/system/railroad x3, propelled by x4
+       try               x1 tries/attempts/makes an effort to do/attain x2
+troci
+                         (event/state/property) by actions/method x3
+       that yonder       pro-sumti: that yonder; distant demonstrative it; indicated
+tu
+                         thing far from speaker and listener
+       the bridi implied extracts a concrete sumti from an unspecified abstraction;
+tu’a
+       by                equivalent to le nu/su’u [sumti] co’e
+       start text scope  start of multiple utterance scope; used for logical/non-
+tu’e
+                         logical/ordinal joining of sentences
+                         x1 [person] agrees with person(s)/position/side x2 that x3 (du’u)
+       agree
+tugni
+                         is true about matter x4
+                         x1 [person] labors/works on/at x2 [activity] with goal/objective
+       govern
+turni
+                         x3
+       territory         x1 is territory/domain/space of/belonging to/controlled by x2
+tutra
+       end text scope    elidable terminator: end multiple utterance scope; seldom
+tu’u
+                         elidable
+       t                 letteral for t
+ty
+       there at          location tense distance: near to ... ; there at ...; a medium/small
+va
+                         distance from ...
+       15                digit/number: hex digit F
+vai
+                                                                                           208
+                                                                            Appendix B. Vocabulary
+          important        x1 (object/event) is important/significant to x2 (person/event) in
+vajni
+                           aspect/for reason x3 (nu/ka)
+          word             x1 is a word meaning/causing x2 in language x3; (adjective: x1 is
+valsi
+                           lexical/verbal)
+          environment      x1 (ind./mass) is part of an
+vanbi
+                           environment/surroundings/context/ambience of x2
+                           x1 is made of/contains/is a quantity of wine from fruit/grapes x2
+          wine
+vanju
+          under conditions vanbi modal, 1st place (conditions 1) under conditions ...; in
+va’o
+                           environment ...
+          end simple bridi elidable: end of sumti in simple bridi; in compound bridi,
+vau
+                           separates common trailing sumti
+          4th conversion   4th conversion; switch 1st/4th places
+ve
+                           x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3
+          sell
+vecnu
+                           for amount/cost/expense x4
+                           x1 takes revenge on/retaliates against x2 (person) for wrong x3
+          revenge
+venfu
+                           (nu) with vengeance x4 (nu)
+          spring           x1 is spring/springtime [warming season] of year x2 at location
+vensa
+                           x3; (adjective:) x1 is vernal
+          here at          location tense distance: here at ... ; at or a very short/tiny
+vi
+                           distance from ...
+          toilet           x1 is a toilet in structure x2 (vikmi ‘excrete’ + kumfa ‘room’)
+vi’irku’a
+          excrete          x1 [body] excretes waste x2 from source x3 via means/route x4
+vikmi
+          remove           x1 removes/subtracts/deducts/takes away x2 from x3
+vimcu
+                           with/leaving result/remnant/remainder x4
+          airplane         x1 is an airplane/aircraft [flying vehicle] for carrying
+vinji
+                           passengers/cargo x2, propelled by x3
+          wilco            vocative: wilco (ack and will comply)
+vi’o
+                           x1 sees/views/perceives visually x2 under conditions x3
+          see
+viska
+                           x1 is a guest/visitor of x2 at place/event x3; x1 visits x2/x3
+          guest
+vitke
+          powerful         x1 has the power to bring about x2 under conditions x3; x1 is
+vlipa
+                           powerful in aspect x2 under x3
+          4                digit/number: 4
+vo
+          x1 it            pro-sumti: repeats 1st place of main bridi of this sentence
+vo’a
+          x2 it            pro-sumti: repeats 2nd place of main bridi of this sentence
+vo’e
+          fly              x1 flies [in air/atmosphere] using lifting/propulsion means x2
+vofli
+          x3 it            pro-sumti: repeats 3rd place of main bridi of this sentence
+vo’i
+          voice            x1 is a voice/speech sound of individual x2
+voksa
+          x4 it            pro-sumti: repeats 4th place of main bridi of this sentence
+vo’o
+          x5 it            pro-sumti: repeats 5th place of main bridi of this sentence
+vo’u
+                           x1 is virtuous/saintly/[fine/moral/nice/holy/morally good] by
+          virtue
+vrude
+                           standard x2
+          yonder at        location tense distance: far from ... ; yonder at ... ; a long
+vu
+                           distance from ...
+          v                letteral for v
+vy
+          w                letteral for w
+vybu
+          6                digit/numeral: 6
+xa
+                                                                                              209
+                                                                            Appendix B. Vocabulary
+          dwell               x1 dwells/lives/resides/abides at/inhabits/is a resident of
+xabju
+                              location/habitat/nest/home/abode x2
+          half                x1 is exactly/approximately half/semi-/demi-/hemi- of x2 by
+xadba
+                              standard x3
+          body                x1 is a/the body/corpus/corpse of x2; (adjective:) x1 is
+xadni
+                              corporal/corporeal
+                              x1 is funny/comical to x2 in property/aspect x3 (nu/ka); x3 is
+          funny
+xajmi
+                              what is funny about x1 to x2
+          drunk               x1 is inebriated, drunk (xalka ‘alcohol’ + fenki ‘crazy’ + lifri
+xalfekfri
+                              ‘experience’)
+          alcohol             x1 is a quantity of/contains/is made of alcohol of type x2 from
+xalka
+                              source/process x3
+          good                x1 is good/beneficial/acceptable for x2 by standard x3
+xamgu
+          nervous             x1 is nervous/anxious about x2 (abstraction) under conditions x3
+xanka
+          elephant            x1 is an elephant of species/breed x2
+xanto
+          letter              x1 is a letter/missive/[note] to intended audience x2 from
+xatra
+                              author/originator x3 with content x4
+          5th conversion      5th conversion; switch 1st/5th places
+xe
+          hate                x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2;
+xebni
+                              x2 is odious to x1
+          Greek               x1 reflects Greek/Hellenic culture/nationality/language in
+xelso
+                              aspect x2
+          kind                x1 (person) is kind to x2 in actions/behavior x3
+xendo
+                              x1 reflects Hindi language/culture/religion in aspect x2
+          Hindi
+xindo
+                              x1 is bad for x2 by standard x3; x1 is poor/unacceptable to x2
+          bad
+xlali
+                              x1 (agent) influences/lures/tempts x2 into action/state x3 by
+          influences
+xlura
+                              influence/threat/lure x4
+          number?             digit/number: number/digit/lerfu question
+xo
+          Arabic              x1 reflects Arabic-speaking culture/nationality in aspect x2
+xrabo
+          true–false?         discursive: true–false question
+xu
+          chemical            x1 is an instance of substance/chemical/drug x2 (individual or
+xukmi
+                              mass) with purity x3
+          chemistry           x1 is chemistry based on methodology x2 (xukmi ‘chemical’ +
+xumske
+                              saske ‘science’)
+          red                 x1 is red/crimson/ruddy [color adjective]
+xunre
+          x                   letteral for x
+xy
+          medium time         time tense distance: medium distance in time
+za
+          approve             x1 approves of/gives favor to plan/action x2 (object/event)
+zanru
+          make                x1 makes/assembles/builds/manufactures/creates x2 out of
+zbasu
+                              materials/parts/components x3
+          nest                x1 is a nest/house/lair/den/[home] of/for x2
+zdani
+          amusing             x1 (abstract) is amusing/entertaining to x2 in property/aspect x3;
+zdile
+                              x3 is what amuses x2 about x1
+          7                   digit/number: 7
+ze
+          medium time         time tense interval: a medium length of time
+ze’a
+          interval
+          short time interval time tense interval: an instantaneous/tiny/short amount of time
+ze’i
+                                                                                                  210
+                                                                        Appendix B. Vocabulary
+        crime              x1 (event/state) is a punishable crime/[taboo/sin] to
+zekri
+                           people/culture/judges/jury x2
+        sexual crime       x1 copulates with x2, which is a punishable crime to
+zergle
+                           people/culture/judges/jury x3 (zekri ‘crime’ + gletu ‘copulate’)
+        steal              x1 takes/gets/gains/obtains/seizes/[removes] x2
+zerle’a
+                           (object/property) from x3 (possessor), which is a punishable
+                           crime/[taboo/sin] to people/culture/judges/jury x4 (zekri ‘crime’
+                           + lebna ‘take’)
+        long time interval time tense interval: a long amount of time
+ze’u
+        observe            x1 observes/[notices]/watches/beholds x2 using senses/means x3
+zgana
+                           under conditions x4
+        music              x1 is music performed/produced by x2 (event)
+zgike
+        short time         time tense distance: instantaneous-to-short distance in time
+zi
+        relative clause    joins relative clauses which apply to the same sumti
+zi’e
+        joiner
+                           x1 is purple/violet [color adjective]
+        purple
+zirpu
+                           x1 is the most purple/violet [color adjective] among set/range x2
+        purplest
+ziryrai
+                           (zirpu ‘purple’ + traji ‘superlative’)
+        more               x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by
+zmadu
+                           amount/excess x4
+        one-word quote     quote next word only; quotes a single Lojban word (not a
+zo
+                           cmavo compound or tanru)
+        unspecified it     pro-sumti: an elliptical/unspecified value; has some value
+zo’e
+                           which makes bridi true
+        non-Lojban quote   delimited non-Lojban quotation; the result treated as a block of
+zoi
+                           text
+        humorously         attitudinal modifier: humorously – dully – seriously
+zo’o
+        long time          time tense distance: long distance in time
+zu
+        on the left of      location tense relation/direction; leftwards/to the left of ...
+zu’a
+                           x1 sits [assumes sitting position] on surface x2
+        sit
+zutse
+        on the one hand    discursive: on the one hand – on the other hand
+zu’u
+        at                 x1 (object/event) is at/attending/present at x2 (event/location)
+zvati
+        z                  letteral for z
+zy
+

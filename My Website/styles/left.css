@@ -1,0 +1,22 @@
+body {background: #008000;
+ color: #ffffff;
+ font-family: arial;
+ font-style: normal;
+ font-size: 13px;
+ text-align: right;
+ font-weight: bold}
+
+a:link {color: #00aa00;
+ text-decoration: none;
+ background: #008000}
+
+a:active {color: #ffffff;
+ text-decoration: none}
+
+a:visited {color: #00aa00;
+ text-decoration: none;
+ background-color: #008000}
+
+a:hover {color: #ffffff;
+ text-decoration: none;
+ background: #00aa00}

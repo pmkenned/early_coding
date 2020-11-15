@@ -1,0 +1,32 @@
+body {background: #ffffff;
+ color: #000000;
+ font-family: arial;
+ font-style: normal;
+ font-size: 13px;
+ font-weight: bold}
+
+a:link {color: #0000cc;
+ text-decoration: none}
+
+a:active {color: #0000cc;
+ text-decoration: none;
+ background-color: #eeeeee}
+
+a:visited {color: #800000;
+ text-decoration: none}
+
+a:hover {color: #ffffff;
+ text-decoration: none;
+ background-color: #0000cc}
+
+h1 {text-align: center;
+ color: #000080}
+
+h2 {color: #800000}
+
+p {text-align: justify;
+ text-indent: 25px}
+
+img {border: 0px}
+
+pre {background: #eeeeee}

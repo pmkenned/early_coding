@@ -1,0 +1,99 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <malloc.h>
+
+void chop(char *);
+int get_token(char*,char *);
+char type(char);
+
+int main()
+{
+  char * str0 = malloc(256);
+  char * str1 = malloc(256);
+  float num[10];
+  char op[10];
+  int order[10];
+  int n = 0;
+  int i = 0, o = 0, c = 0;
+  int t = 0;
+  int j;
+
+  fgets(str0, 255, stdin);
+  chop(str0);
+
+  do
+  {
+    n += get_token(str1, str0+n);
+
+    if(str1[0] == '(' && ( t == 'n' || t == ')' ) )
+      op[o++] = '*';
+    if(type(str1[0]) == 'n' && t == ')' )
+      op[o++] = '*';
+
+    t = type(str1[0]);
+
+    switch(t)
+    {
+      case 'n':
+      num[i++] = atof(str1);
+      break;
+
+      case 'o':
+      op[o++] = str1[0];
+      break;
+    }
+  }
+  while(str1[0] != '\0');
+
+  printf("\nNumbers entered:\n");
+  for(j=0; j<i; j++)
+    printf("%f\n", num[j]);
+
+  printf("Operators entered:\n");
+  for(j=0; j<o; j++)
+    printf("%c\n", op[j]);
+
+  return 0;
+}
+
+void chop(char * str)
+{
+  str[strlen(str)-1] = '\0';
+}
+
+int get_token(char* str1, char * str0)
+{
+  char c = str0[0];
+  char t;
+  int i = 0, j = 0;
+
+  while(c == ' ' || c == '\t')
+    c = str0[++i];
+
+  t = type(c);
+
+  for(j = i; j < 256 && t == type(c); j++)
+  {
+    str1[j - i] = c;
+    c = str0[j+1];
+  }
+  str1[j-i] = '\0';
+
+  return strlen(str1);
+}
+
+char type(char c)
+{
+  if(c >= '0' && c <= '9' || c == '.')
+    return 'n';
+  if( (c >= 'A' && c<= 'Z') || ( c >= 'a' && c <= 'z') )
+    return 'c';
+  if(c == '+' || c == '-' || c == '*' || c == '/' || c == '^')
+    return 'o';
+  if(c == '(')
+    return '(';
+  if(c == ')')
+    return ')';
+  return 0;
+}

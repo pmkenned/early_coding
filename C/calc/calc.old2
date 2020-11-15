@@ -1,0 +1,61 @@
+#include <stdio.h>
+
+char type(char);
+
+int main()
+{
+  char str[256];
+  char sym[8][32];
+  int i = 0, n = 0, m = 0;
+  char t = '\0';
+  char c;
+
+  for(n=0; n<8; n++)
+    for(m=0; m<32; m++)
+      sym[n][m] = '\0';
+  n = m = 0;
+
+  fgets(str, 255, stdin);
+
+  while(str[i] == ' ' || str[i] == '\t')
+    i++;
+  t = type(str[i]);
+
+  m = i;
+  while(str[i] != '\n')
+  {
+    c = str[i];
+
+    if(t != type(c))
+    {
+      n++;
+      t = type(c);
+      m = i;
+    }
+
+    sym[n][i - m] = c;
+
+    i++;
+  }
+
+  for(n = 0; n < 8 && sym[n][0] != '\0'; n++)
+  {
+    for(m = 0; m < 32 && sym[n][m] != '\0'; m++)
+      putchar(sym[n][m]);
+    putchar('\n');
+  }
+
+  return 0;
+}
+
+char type(char c)
+{
+  if(c >= 'A' && c <= 'z')
+    return 'c';
+  if(c >= '0' && c <= '0')
+    return 'i';
+  if(c=='+' || c=='-' || c== '*' || c=='/' || c=='^')
+    return 'o';
+
+  return -1;
+}

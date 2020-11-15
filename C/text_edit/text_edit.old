@@ -1,0 +1,58 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <string.h>
+
+int main(int argc, char * argv[])
+{
+  FILE * fp;
+  char fn[256];
+  char c='\0';
+
+  if(argv[1] != NULL)
+    strncpy(fn, argv[1], 255);
+  else
+  {
+    printf("usage: text_edit filename\n");
+    exit(0);
+  }
+
+  fp = fopen(fn, "a+");
+
+  if(fp == NULL)
+  {
+    printf("Error opening file %s", fn);
+    exit(1);
+  }
+
+  while(c != EOF)
+  {
+    c = fgetc(fp);
+    if(c != EOF)
+      putchar(c);
+  }
+
+  c=getch();
+
+  while(c != 17)
+  {
+    switch(c)
+    {
+      case '\b':
+      putchar('\b');
+      putchar(' ');
+      putchar('\b');
+      break;
+
+      default:
+      putchar(c);
+      fputc(c,fp);
+      break;
+    }
+    c = getch();
+  }
+
+  fclose(fp);
+
+  return 0;
+}

@@ -1,0 +1,75 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <malloc.h>
+#include <string.h>
+
+void flush(FILE *);
+void chop(char *);
+
+struct node
+{
+  double data;
+  struct node * next;
+};
+
+int main()
+{
+  struct node * start = NULL;
+  struct node * list = NULL;
+  int i = 0;
+  double x;
+  char str[256];
+
+  start = list = malloc( sizeof(struct node) );
+
+  printf("Enter Ctrl-D when done.\n");
+  while(1)
+  {
+    printf("Enter data (%d):", i);
+    fgets(str,255,stdin);
+    chop(str);
+
+    if(str[0] == '\4')
+      break;
+
+    if (atof(str) == 0 && str[0] != '0')
+    {
+      printf("You did not enter a valid number.\n");
+      continue;
+    }
+
+    x = atof(str);
+
+    list->data = x;
+    list->next = malloc( sizeof(struct node) );
+    list = list->next;
+    i++;
+  }
+  list->next = NULL;
+
+  list = start;
+
+  i=0;
+  while(list->next != NULL)
+  {
+    printf("\nlist->data (%d): %f\n", i, list->data);
+    printf("list->next (%d): %d\n", i, list->next);
+    list = list->next;
+    i++;
+  }
+
+  return 0;
+}
+
+void flush(FILE * ifp)
+{
+  char ch = '\0';
+  while(ch != EOF && ch != '\n')
+    ch = fgetc(ifp);
+}
+
+void chop(char * str)
+{
+  if(strlen(str) >= 1)
+    str[strlen(str)-1] = '\0';
+}

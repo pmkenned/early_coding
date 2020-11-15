@@ -1,0 +1,213 @@
+<html>
+
+<head>
+<title>Programming with the TI-82</title>
+
+</head>
+
+<body>
+
+<h1 align="center">Programming with the TI-82</h1>
+
+<p><img src="images/ti-82.gif" align="left" width="100" height="75" hspace="10">&nbsp;&nbsp;&nbsp;At my high school I am taking Algebra 2 and I have been issued a TI-82 graphing calculator. The TI-82 allows the user to create graphs and to write and store programs. Here you can learn how to program with the TI-82 and use a few programs I have written.</p><br clear="left">
+
+<h3>Creating, Editing, and Executing Programs</h3>
+
+<p>To create a program, press the [PRGM] button, move to NEW, and type the name of your program. The name can be up to 8 characters long, can contain the characters 0-9 A-Z, and it must begin with a letter.<br>
+To edit a program, press the [PRGM] button, move to EDIT, and select the program you want to edit.<br>
+To execute a program, press the [PRGM] button and under EXEC select the program you want to execute.</p>
+
+<h3>Controlling Program Flow</h3>
+
+If Statements
+
+<p>&nbsp;&nbsp;&nbsp;The If command can instruct a calculator to perform a specific operation if a certain condition if true. Example:</p>
+
+<pre>
+:If condition		// If Command and If Condition Line
+:command it true	// The program only executes this command if the condition is true and skips if false
+:command		// After the If command is complete the program continues with the other commands
+
+:If x=1			// If the variable x equals one
+:a+10[STO]a		// Add 10 to the variable a and store it as a
+:10a[STO]a		// Multiply 10 by a and store it as a
+</pre>
+
+If-Then Statements
+
+<p>&nbsp;&nbsp;&nbsp;A If-Then statement allows for multiple lines of commands to be performed if the condition is true. Example:</p>
+
+<pre>
+:If condition		// If Command and If Condition Line
+:Then			// Begins the command group for a true outcome
+:command it true	// The program only executes this command if the condition is true and skips if false
+:command it true	// The program only executes this command if the condition is true and skips if false
+:End			// Closes the the If-Then group
+:command		// After the If command is complete the program continues with the other commands
+
+:If x=1			// If the variable x equals one
+:Then			// Begins the command group for a true outcome
+:a+10[STO]a		// Add 10 to the variable a and store it as a
+:b+1[STO]b		// Add 1 to the variable b and store it as b
+:End			// Closes the If-Then group
+:10a[STO]a		// Multiply 10 by a and store it as a
+</pre>
+
+If-Then-Else Statements
+
+<p>&nbsp;&nbsp;&nbsp;A If-Then-Else statement allows for multiple lines of commands to be performed if the condition is true and multiple lines for a false outcome. Example:</p>
+
+<pre>
+:If condition		// If Command and If Condition Line
+:Then			// Begins the command group for a true outcome
+:command it true	// The program only executes this command if the condition is true and skips if false
+:command it true	// The program only executes this command if the condition is true and skips if false
+:Else			// Begins the command group for a false outcome
+:command if false	// The program only executes this command if the condition is false
+:command if false	// The program only executes this command if the condition is false
+:End			// Closes the If-Then-Else group
+:command		// After the If command is complete the program continues with the other commands
+
+:If x=1			// If the variable x equals one
+:Then			// Begins the command group for a true outcome
+:a+10[STO]a		// Add 10 to the variable a and store it as a
+:b+1[STO]b		// Add 1 to the variable b and store it as b
+:Else			// Begins the command group for a false outcome
+:a-10[STO]a		// Subtracts 10 from the variable a and store it as a
+:b-1[STO]b		// Subtracts 1 from the variable b and store it as b
+:End			// Closes the If-Then-Else group
+:10a[STO]a		// Multiply 10 by a and store it as a
+</pre>
+
+While Statements
+
+<p>&nbsp;&nbsp;&nbsp;The While command will repeat a certain operation until a condition is no longer true. Example:</p>
+
+<pre>
+:While condition	// While Command and While Condition Line
+:command		// Repeats command until condition is false
+:command		// Repeats command until condition is false
+:End			// Closes the repeat command group
+:command		// After the While command is complete the program continues with the other commands
+
+:While x<100		// Repeat until x is not less than 100
+:a+1[STO]a		// Add 10 to the variable a and store it as a
+:x+2[STO]x		// Add 1 to the variable b and store it as b
+:End			// Closes While command group
+:10a[STO]a		// Multiply 10 by a and store it as a
+</pre>
+
+Repeat Statements
+
+<p>&nbsp;&nbsp;&nbsp;The Repeat command will repeat a certain operation until a condition has been met. Example:</p>
+
+<pre>
+:Repeat condition	// Repeat Command and Repeat Condition line
+:command		// Repeats command until condition is true
+:command		// Repeats command until condition is true
+:End			// Closes the repeat command group
+:command		// After the If command is complete the program continues with the other commands
+
+:Repeat x=100		// Repeat until x equals 100
+:a+1[STO]a		// Add 10 to the variable a and store it as a
+:x+2[STO]x		// Add 1 to the variable b and store it as b
+:End			// Closes the If-Then-Else group
+:10a[STO]a		// Multiply 10 by a and store it as a
+</pre>
+
+Tests and Logic
+
+<p>By using tests you can control program flow with control statements. The kinds of tests are equal to, not equal to, greater than, greater than or equal to, less than, and less than or equal to. Examples:</p>
+
+<pre>
+If x=1
+If x>1
+If x<1
+</pre>
+
+<p>While controlling program flow you may want to perform commands if one of two conditions is true, only if both are true, only if one is true and the other false etc. You can do this using logic. The logic commands are and, or, xor (exclusive or), and not. Examples:</p>
+
+<pre>
+If x=1 and y=2	// The condition is only true if both parts are true
+If x=1 or x=2	// The condition is true if either parts are true
+If x=1 xor x=2	// The condition is true only if one part is true and the other is false
+If not x	// The condition is true if the value is 0
+</pre>
+
+<table bordercolor="#000000" frame="hsides" rules="rows" cellspacing="0" cellpadding="4">
+
+<tr align="center">
+<th><i>valueA</i></th>
+<th><i>valueB</i></th>
+<th></th>
+<th>and</th>
+<th>or</th>
+<th>xor</th>
+</tr>
+
+<tr align="center">
+<td>1</td>
+<td>1</td>
+<td>returns</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+</tr>
+
+<tr align="center">
+<td>1</td>
+<td>0</td>
+<td>returns</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+
+<tr align="center">
+<td>0</td>
+<td>1</td>
+<td>returns</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+
+<tr align="center">
+<td>0</td>
+<td>0</td>
+<td>returns</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+
+</table>
+
+<h3>Programs</h3>
+
+<p>&nbsp;&nbsp;&nbsp;Interest: This simple program will ask you for a principle, interest rate, ammount of times you pay per year, and number of years to determine how much you will owe according to the formula A=P(1+(r/n))^(nt).</p>
+
+<pre>
+PROGRAM:INTEREST
+:ClrHome
+:Input "PRINCIPL
+E:",P
+:Input "INTEREST
+ RATE:",R
+:Input "PAID PER
+ YEAR:",N
+:Input "YEARS:",
+T
+:Disp P(1+(.01R/
+N))^(NT)
+</pre>
+
+<hr>
+<script language="JavaScript" src="javascript/signature.js" type="text/javascript"></script>
+
+</body>
+
+</html>
+
+<noscript><noscript>
+<plaintext><plaintext>

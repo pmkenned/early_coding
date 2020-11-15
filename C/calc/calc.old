@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <string.h>
+
+void flush(FILE *);
+void chop(char *);
+char * get_token(char *);
+
+int main()
+{
+  char equ0[256], equ1[256];
+
+  printf(">");
+  fgets(equ0,255, stdin);
+
+  strcpy(equ1, get_token(equ0));
+
+  printf("%s", equ1);
+
+  return 0;
+}
+
+char * get_token(char * equ)
+{
+  char str0[256];
+
+  int i = 0;
+  while(equ[i] == ' ' || equ[i] == '\t')
+    i++;
+
+  if(equ[i] == '+' || equ[i] == '-' || equ[i] == '*' || equ[i] == '/' || equ[i] == '|' || equ[i] == '(' || equ[i] == ')' || equ[i] == '^')
+  {
+    str0[0] = equ[i];
+    str0[1] = '\0';
+    return &str0[0];
+  }
+
+  return &equ[i];
+}
+
+void flush(FILE * ifp)
+{
+  char ch = '\0';
+  while(ch != EOF && ch != '\n')
+    ch = fgetc(ifp);
+}
+
+void chop(char * str)
+{
+  str[strlen(str)-1] = '\0';
+}

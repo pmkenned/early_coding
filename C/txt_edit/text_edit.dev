@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Documents and Settings\Paul Kennedy\My Documents\Source Code\C\txt_edit\text_edit.dev
+Name=text_edit
+Use_gpp=0
+UnitCount=1
+ResFiles=C:\Documents and Settings\Paul Kennedy\My Documents\Source Code\C\txt_edit\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Program Files\Dev-C++\Bin\Mainicon.ico
+[Unit1]
+FileName=C:\Documents and Settings\Paul Kennedy\My Documents\Source Code\C\txt_edit\txt_edit.c
+FileTime=889873075
